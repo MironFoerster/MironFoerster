@@ -1,6 +1,6 @@
 Hello Everyone!	 👋 
 
-It's Miron, currently Student in my final year in Dresden/Germany and highly interested in *UX/UI design*, *computer science* and *engineering* stuff of all kinds.
+It's Miron, currently Student in my final year in Dresden/Germany and highly interested in *UI/UX design*, *computer science* and *engineering* stuff of all kinds.
 
 When I'm not immerged in some fascinating code problem or creating/admiring a beautiful design I like to go climbing or mountain-unicycling, do yoga, play violin or the sax, bake rolls, and lots more of fun stuff^^
 
