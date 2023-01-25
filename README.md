@@ -12,6 +12,6 @@ When I'm not immerged in some fascinating code problem or creating/admiring a be
 
 
 ```
-Process finished with exit code 49: DestinationError: expected 1 destination, received 3 (design,code,engineering)
+Process finished with exit code 42: DestinationError: expected 1 destination, received 3 (design,code,engineering)
 Not yet sure exactly where to go...hmmm...well then, just have to find a way to combine all three of them!!!
 ```
