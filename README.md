@@ -4,7 +4,7 @@ It's Miron, currently student in my final year in Dresden/Germany and highly int
 
 When I'm not immerged in some fascinating code problem or creating/admiring a beautiful design I like to go climbing or mountain-unicycling, play violin or the sax, bake rolls, and lots more of fun stuff^^
 
-### Check out some of my amazing projects:
+### Check out some of my projects:
 
 **SQLgarden** -- a fun browser game driven by XAMPP! [Go grow some flowers!](https://github.com/MironFoerster/SQLgarden)
 
